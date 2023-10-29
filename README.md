@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! This is Al-Amin Hossain, <br>an enthusiastic & passionate full-stack web developer,<br> from Dhaka, Bangladesh.</h2>
+<h2 align="left">Hi 👋! This is Al-Amin Hossain, <br>an,<br> .</h2>
+<h4>Enthusiastic & passionate full-stack web developer</h4>
+<h4>from Dhaka, Bangladesh</h4>
 
 ###
 
