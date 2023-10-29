@@ -1,4 +1,4 @@
-# Hi there, This is Al-Amin Hossain, from Dhaka,Bangladesh 👋
+# Hi there, This is Al-Amin Hossain 👋
 
 ### About me:
 
