@@ -2,7 +2,6 @@
 <h2 align="left">Hi 👋! This is Al-Amin Hossain</h2>
 <h4>Enthusiastic & passionate full-stack web developer</h4>
 <h4>from Dhaka, Bangladesh</h4>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
