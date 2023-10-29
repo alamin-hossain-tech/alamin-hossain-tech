@@ -1,12 +1,8 @@
 <h2 align="left">Hi 👋! This is Al-Amin Hossain, an enthusiastic & passionate full-stack web developer, from Dhaka, Bangladesh.</h2>
 
 ###
-
-<img align="right" height="150" src="https://i.ibb.co/yqckxsf/Animation-1698559363643.gif"  />
-
-###
-
-<div align="left">
+<div>
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -55,6 +51,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
+  <img align="right" height="150" src="https://i.ibb.co/yqckxsf/Animation-1698559363643.gif"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-hossain-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=alamin-hossain-tech&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+
 
 ###
 
@@ -66,5 +74,11 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alamin-hossain-tech/alamin-hossain-tech/output/snake.svg" alt="Snake animation" />
 
 ###
