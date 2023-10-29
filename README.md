@@ -6,7 +6,6 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 
 ### Connect with me:
 
-<img align="right" height="150" src="https://i.ibb.co/yqckxsf/Animation-1698559363643.gif"  />
 
 ###
 
