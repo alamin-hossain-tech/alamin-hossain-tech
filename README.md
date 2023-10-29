@@ -16,7 +16,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 ### Languages & Tools
 
-<div align="left">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -68,6 +68,8 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <img  height="30" src="https://img.icons8.com/color/48/shopify.png" alt="shopify"/>
   <img width="12" />
 <img  height="30" src="https://i.ibb.co/3rm3B04/Asset-1-3x.png" alt="shopify"/>
+  <img width="12" />
+<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo.png" alt="external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo"/>
 </div>
 <br>
 <br>
