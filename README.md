@@ -16,12 +16,91 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 ### Languages & Tools
 
-<img src="https://img.shields.io/badge/java-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/> <!--img src="https://img.shields.io/badge/c%23%20-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/-->
-<img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey"/> <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <!--img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/--> <!--img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/--> <img src="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=remix" height="30" alt="remix logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="30" alt="apollographql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+<br>
+<br>
+<br>
 
-<img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white"/> <img src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/> <!--img src="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white"/--> <!--img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/--> <img src="https://img.shields.io/badge/postresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <!--img src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/--> <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white"/> <img src="https://img.shields.io/badge/terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+<h2 align="left">Hi 👋! This is Al-Amin Hossain, <br>an enthusiastic & passionate full-stack web developer,<br> from Dhaka, Bangladesh.</h2>
 
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5464c8?style=for-the-badge&logo=intellij%20idea&logoColor=white"/> <!--img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white"/--> <!--img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white"/--> <!--img src="https://img.shields.io/badge/rider-faaa14.svg?&style=for-the-badge&logo=rider&logoColor=white"/--> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <!--img src="https://img.shields.io/badge/atom-0aa372.svg?&style=for-the-badge&logo=atom&logoColor=white"/--> <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab%20-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/gitpod-FFAE33.svg?&style=for-the-badge&logo=gitpod&logoColor=white"/> <img src="https://img.shields.io/badge/insomnia%20-5849BE.svg?&style=for-the-badge&logo=insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/> <img src="https://img.shields.io/badge/gradle-02303A.svg?&style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
-<br>
-<br>
-<br>
+###
+
+<div align="left">
+  
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-hossain-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=alamin-hossain-tech&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.ibb.co/yqckxsf/Animation-1698559363643.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alamin-hossain-tech/alamin-hossain-tech/output/snake.svg" alt="Snake animation" />
+
+###
