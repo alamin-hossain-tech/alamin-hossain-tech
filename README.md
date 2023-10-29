@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! This is Al-Amin Hossain, an enthusiastic & passionate full-stack web developer, from Dhaka, Bangladesh.</h2>
+<h2 align="left">Hi 👋! This is Al-Amin Hossain, <br>an enthusiastic & passionate full-stack web developer,<br> from Dhaka, Bangladesh.</h2>
 
 ###
-<div>
-  <div align="left">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -51,18 +51,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
-  <img align="right" height="150" src="https://i.ibb.co/yqckxsf/Animation-1698559363643.gif"  />
-</div>
-
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-hossain-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-hossain-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=alamin-hossain-tech&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+###
 
+<img align="right" height="150" src="https://i.ibb.co/yqckxsf/Animation-1698559363643.gif"  />
 
 ###
 
