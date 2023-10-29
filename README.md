@@ -65,9 +65,9 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
-<img  height="40" src="https://img.icons8.com/color/48/shopify.png" alt="shopify"/>
+<img  height="30" src="https://img.icons8.com/color/48/shopify.png" alt="shopify"/>
   <img width="12" />
-<img  height="40" src="https://i.ibb.co/3rm3B04/Asset-1-3x.png" alt="shopify"/>
+<img  height="30" src="https://i.ibb.co/3rm3B04/Asset-1-3x.png" alt="shopify"/>
 </div>
 <br>
 <br>
