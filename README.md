@@ -2,8 +2,7 @@
 
 ### About me:
 
-I am from Germany and currently <!--timespan:start(%y)(env:1)-->20<!--timespan:end--> years old. I'm very interested in programming and so did I start
-with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and other stuff!
+I would like to introduce myself as an enthusiastic & passionate full-stack web & mobile application developer having experience with MERN Stack technology, Shopify Development, WordPress and Flutter.I can bring new thinking & make dynamic, rich web things both in a logical and innovative way.
 
 ### Connect with me:
 
