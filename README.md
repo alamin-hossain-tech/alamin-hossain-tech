@@ -10,7 +10,7 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 
 ###
 
-  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+  
 <div align="left">
   <a href="https://www.linkedin.com/in/al-amin-hossain1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -26,8 +26,6 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 ###
 
 ### Languages & Tools
-
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
