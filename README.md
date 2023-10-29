@@ -63,6 +63,8 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img  height="30" src="https://img.icons8.com/fluency-systems-filled/48/000000/chakra-ui.png" alt="chakra-ui"/>
 </div>
 <br>
 <br>
