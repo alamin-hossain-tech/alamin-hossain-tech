@@ -15,7 +15,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 <br>
 
 ### Languages & Tools
-
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -63,6 +63,7 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+</div>
 <br>
 <br>
 <br>
@@ -71,9 +72,8 @@ with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and o
 
 ###
 
-<div align="left">
+
   
-</div>
 
 ###
 
