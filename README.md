@@ -75,7 +75,7 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
   <img width="12" />
 <img  height="30" src="https://img.icons8.com/color/48/shopify.png" alt="shopify"/>
   <img width="12" />
-<img  height="30" src="https://i.ibb.co/3rm3B04/Asset-1-3x.png" alt="shopify"/>
+<img  height="30" src="https://res.cloudinary.com/dvinysdbl/image/upload/v1699683484/zwnuugsifjkw2b0b8chv.png" alt="shopify"/>
   <img width="12" />
 <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo.png" alt="external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo"/>
 </div>
