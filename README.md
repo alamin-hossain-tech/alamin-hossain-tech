@@ -1,5 +1,5 @@
 # Hi there, This is Al-Amin Hossain 👋
-<strong style='font-size:22px'>Web and Mobile Application Developer</strong>
+##<strong >Web and Mobile Application Developer</strong>
 
 ### About me:
 
