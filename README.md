@@ -24,6 +24,8 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 
 ### Languages & Tools
 
+[![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/alamin-hossain-tech)
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
