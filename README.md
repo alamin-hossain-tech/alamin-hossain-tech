@@ -7,6 +7,7 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 
 ### Connect with me:
 [![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/alamin-hossain-tech)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/alamin-hossain-tech](https://linkedin.com/in/al-amin-hossain1))
 <div align="left">
 
 <a href="https://github.com/alamin-hossain-tech" target="_blank">
