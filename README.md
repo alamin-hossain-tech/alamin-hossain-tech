@@ -63,7 +63,6 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
 ![](https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
-![](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
 
 
 
