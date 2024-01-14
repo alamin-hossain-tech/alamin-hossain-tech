@@ -73,5 +73,5 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 <div align="center">
 <a href="https://github.com/alamin-hossain-tech">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamin-hossain-tech&theme=monokai" height="180em" />
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-hossain-tech&hide_progress=true&theme=monokai" alt=alamin-hossain-tech />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-hossain-tech&hide_progress=true&theme=monokai" alt=alamin-hossain-tech />
 </div>
