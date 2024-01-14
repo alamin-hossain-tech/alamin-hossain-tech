@@ -71,9 +71,6 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-hossain-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-<div align="center">
 <a href="https://github.com/alamin-hossain-tech">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamin-hossain-tech&theme=zenburn" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alamin-hossain-tech&theme=2077" height="180em" />
