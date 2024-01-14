@@ -28,7 +28,7 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![Rechart](https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Rechart](https://img.shields.io/badge/React_DND-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white)
-![Rechart](https://img.shields.io/badge/Rechart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Rechart](https://img.shields.io/badge/Rechart,js-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)
 
 
 
