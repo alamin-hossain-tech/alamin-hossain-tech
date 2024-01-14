@@ -1,11 +1,10 @@
 # Hi there, This is Al-Amin Hossain 👋
 ### Web and Mobile Application Developer
 
-### About me:
 
 I would like to introduce myself as an enthusiastic & passionate full-stack web & mobile application developer having experience with MERN Stack technologies, Shopify Development, WordPress, React Native & Flutter. I can bring new thinking & make dynamic, rich web things both logically and innovatively.
 
-### Connect with me:
+### Get connected:
 [![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/alamin-hossain-tech)
 [![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/al-amin-hossain1)
 [![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alaminnishat1)
@@ -50,7 +49,17 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 ![RestAPI](https://img.shields.io/badge/RestAPI-6BA539.svg?style=for-the-badge&logo=OpenAPI-Initiative&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 
-
+#### Backend
+![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)
+![](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
+![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
+![](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
+![](https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
+![](
 
 
 <br>
