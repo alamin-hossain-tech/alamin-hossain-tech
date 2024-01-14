@@ -27,6 +27,7 @@ I would like to introduce myself as an enthusiastic & passionate full-stack web 
 ![Remix](https://img.shields.io/badge/Remix-000000.svg?style=for-the-badge&logo=Remix&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![Rechart](https://img.shields.io/badge/Rechart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Rechart](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 
 
 
